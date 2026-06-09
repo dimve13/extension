@@ -1,0 +1,51 @@
+{
+  "001": {
+    "rank": 1,
+    "name": "Zendaya",
+    "profileColor": "#226f54",
+    "movies": [
+      {
+        "id": "tt15239678",
+        "name": "Dune: Part Two",
+        "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+        "background": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "description": "Sample movie returned for STARmeter slot 001."
+      },
+      {
+        "id": "tt1160419",
+        "name": "Dune",
+        "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+        "background": "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+        "description": "Sample movie returned for STARmeter slot 001."
+      }
+    ]
+  },
+  "002": {
+    "rank": 2,
+    "name": "Pedro Pascal",
+    "profileColor": "#775144",
+    "movies": [
+      {
+        "id": "tt13622970",
+        "name": "The Unbearable Weight of Massive Talent",
+        "poster": "https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+        "background": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+        "description": "Sample movie returned for STARmeter slot 002."
+      }
+    ]
+  },
+  "003": {
+    "rank": 3,
+    "name": "Florence Pugh",
+    "profileColor": "#7d4f50",
+    "movies": [
+      {
+        "id": "tt15398776",
+        "name": "Oppenheimer",
+        "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "background": "https://image.tmdb.org/t/p/original/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg",
+        "description": "Sample movie returned for STARmeter slot 003."
+      }
+    ]
+  }
+}

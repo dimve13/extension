@@ -1,0 +1,14 @@
+{
+  "name": "starmeter-nuvio-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel-hosted Nuvio/Stremio STARmeter slot prototype.",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy",
+    "deploy:prod": "vercel deploy --prod"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

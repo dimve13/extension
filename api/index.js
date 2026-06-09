@@ -211,6 +211,15 @@ module.exports = function handler(req, res) {
     return sendText(res, 200, "text/html; charset=utf-8", copyPage(baseUrl));
   }
 
+  if (path === "/raw" || path === "/collection-raw" || path === "/raw.json") {
+    return sendText(
+      res,
+      200,
+      "text/plain; charset=utf-8",
+      JSON.stringify(nuvioCollection(baseUrl), null, 2)
+    );
+  }
+
   const catalogMatch = path.match(/^\/catalog\/movie\/starmeter\.slot\.(\d{3})\.json$/);
   if (catalogMatch) {
     return sendJson(res, 200, catalog(catalogMatch[1]));

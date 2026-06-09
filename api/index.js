@@ -60,16 +60,20 @@ function manifest() {
 }
 
 function nuvioCollection(baseUrl) {
-  return {
-    name: "STARmeter 100 Prototype",
-    version: 1,
-    folders: Array.from({ length: 100 }, (_, index) => {
+  return [
+    {
+      id: "collection-STARMETER-100",
+      title: "STARmeter 100",
+      folders: Array.from({ length: 100 }, (_, index) => {
       const id = slotId(index + 1);
       return {
-        title: `Slot ${id}`,
+        id: `folder-STARMETER-${id}`,
+        title: `STARmeter ${id}`,
         hideTitle: true,
+        tileShape: "POSTER",
         coverImageUrl: `${baseUrl}/starmeter/slot/${id}/cover.svg`,
         focusGifUrl: `${baseUrl}/starmeter/slot/${id}/cover.svg`,
+        focusGifEnabled: false,
         catalogSources: [
           {
             type: "movie",
@@ -79,7 +83,44 @@ function nuvioCollection(baseUrl) {
         ],
       };
     }),
-  };
+    },
+  ];
+}
+
+function copyPage(baseUrl) {
+  const json = JSON.stringify(nuvioCollection(baseUrl), null, 2);
+  const escapedJson = escapeXml(json);
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>STARmeter Nuvio Collection</title>
+  <style>
+    body { margin: 0; font-family: Arial, Helvetica, sans-serif; background: #101418; color: #f8fafc; }
+    main { max-width: 900px; margin: 0 auto; padding: 24px; }
+    button { border: 0; border-radius: 8px; padding: 14px 18px; font-weight: 700; font-size: 16px; background: #38bdf8; color: #08111a; }
+    textarea { width: 100%; min-height: 65vh; margin-top: 16px; border-radius: 8px; border: 1px solid #334155; background: #020617; color: #e2e8f0; padding: 14px; font: 12px/1.45 Consolas, monospace; box-sizing: border-box; }
+    p { color: #cbd5e1; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>STARmeter 100 Collection JSON</h1>
+    <p>Tap copy, then paste the JSON text into Nuvio's Collections import box. Do not paste the URL there.</p>
+    <button id="copy">Copy JSON</button>
+    <textarea id="json" spellcheck="false">${escapedJson}</textarea>
+  </main>
+  <script>
+    const textarea = document.getElementById('json');
+    document.getElementById('copy').addEventListener('click', async () => {
+      textarea.select();
+      await navigator.clipboard.writeText(textarea.value);
+      document.getElementById('copy').textContent = 'Copied';
+    });
+  </script>
+</body>
+</html>`;
 }
 
 function catalog(id) {
@@ -164,6 +205,10 @@ module.exports = function handler(req, res) {
     path === "/api/collections.json"
   ) {
     return sendJson(res, 200, nuvioCollection(baseUrl));
+  }
+
+  if (path === "/copy" || path === "/collection-copy" || path === "/copy.html") {
+    return sendText(res, 200, "text/html; charset=utf-8", copyPage(baseUrl));
   }
 
   const catalogMatch = path.match(/^\/catalog\/movie\/starmeter\.slot\.(\d{3})\.json$/);

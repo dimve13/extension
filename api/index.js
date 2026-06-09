@@ -32,6 +32,14 @@ function sendText(res, status, contentType, body) {
   res.end(body);
 }
 
+function redirect(res, location) {
+  res.statusCode = 302;
+  res.setHeader("Location", location);
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Cache-Control", "no-cache, no-store, max-age=0");
+  res.end("");
+}
+
 function getBaseUrl(req) {
   const host = req.headers["x-forwarded-host"] || req.headers.host;
   const proto = req.headers["x-forwarded-proto"] || "https";
@@ -165,6 +173,21 @@ function escapeXml(value) {
     .replace(/"/g, "&quot;");
 }
 
+function slotRevision(id) {
+  const slot = getSlot(id);
+  const source = JSON.stringify({
+    name: slot.name,
+    color: slot.profileColor,
+    movies: (slot.movies || []).map((movie) => movie.id),
+  });
+
+  let hash = 0;
+  for (let i = 0; i < source.length; i += 1) {
+    hash = (hash * 31 + source.charCodeAt(i)) >>> 0;
+  }
+  return hash.toString(36);
+}
+
 function coverSvg(id) {
   const slot = getSlot(id);
   const color = slot.profileColor || "#334155";
@@ -232,7 +255,13 @@ module.exports = function handler(req, res) {
 
   const coverMatch = path.match(/^\/starmeter\/slot\/(\d{3})\/cover\.svg$/);
   if (coverMatch) {
-    return sendText(res, 200, "image/svg+xml; charset=utf-8", coverSvg(coverMatch[1]));
+    const id = coverMatch[1];
+    return redirect(res, `/starmeter/slot/${id}/cover-${slotRevision(id)}.svg`);
+  }
+
+  const versionedCoverMatch = path.match(/^\/starmeter\/slot\/(\d{3})\/cover-[a-z0-9]+\.svg$/);
+  if (versionedCoverMatch) {
+    return sendText(res, 200, "image/svg+xml; charset=utf-8", coverSvg(versionedCoverMatch[1]));
   }
 
   return sendJson(res, 404, { error: "not found" });

@@ -155,7 +155,14 @@ module.exports = function handler(req, res) {
     return sendJson(res, 200, manifest());
   }
 
-  if (path === "/nuvio-collection.json" || path === "/api/nuvio-collection.json") {
+  if (
+    path === "/nuvio-collection.json" ||
+    path === "/nuvio-collections.json" ||
+    path === "/collections.json" ||
+    path === "/api/nuvio-collection.json" ||
+    path === "/api/nuvio-collections.json" ||
+    path === "/api/collections.json"
+  ) {
     return sendJson(res, 200, nuvioCollection(baseUrl));
   }
 

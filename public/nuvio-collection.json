@@ -1,12 +1,16 @@
-﻿{
-    "name":  "STARmeter 100 Prototype",
-    "version":  1,
+﻿[
+  {
+    "id":  "collection-STARMETER-100",
+    "title":  "STARmeter 100",
     "folders":  [
                     {
-                        "title":  "Slot 001",
+                        "id":  "folder-STARMETER-001",
+                        "title":  "STARmeter 001",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/001/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/001/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -16,10 +20,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 002",
+                        "id":  "folder-STARMETER-002",
+                        "title":  "STARmeter 002",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/002/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/002/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -29,10 +36,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 003",
+                        "id":  "folder-STARMETER-003",
+                        "title":  "STARmeter 003",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/003/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/003/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -42,10 +52,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 004",
+                        "id":  "folder-STARMETER-004",
+                        "title":  "STARmeter 004",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/004/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/004/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -55,10 +68,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 005",
+                        "id":  "folder-STARMETER-005",
+                        "title":  "STARmeter 005",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/005/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/005/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -68,10 +84,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 006",
+                        "id":  "folder-STARMETER-006",
+                        "title":  "STARmeter 006",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/006/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/006/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -81,10 +100,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 007",
+                        "id":  "folder-STARMETER-007",
+                        "title":  "STARmeter 007",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/007/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/007/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -94,10 +116,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 008",
+                        "id":  "folder-STARMETER-008",
+                        "title":  "STARmeter 008",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/008/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/008/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -107,10 +132,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 009",
+                        "id":  "folder-STARMETER-009",
+                        "title":  "STARmeter 009",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/009/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/009/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -120,10 +148,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 010",
+                        "id":  "folder-STARMETER-010",
+                        "title":  "STARmeter 010",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/010/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/010/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -133,10 +164,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 011",
+                        "id":  "folder-STARMETER-011",
+                        "title":  "STARmeter 011",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/011/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/011/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -146,10 +180,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 012",
+                        "id":  "folder-STARMETER-012",
+                        "title":  "STARmeter 012",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/012/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/012/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -159,10 +196,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 013",
+                        "id":  "folder-STARMETER-013",
+                        "title":  "STARmeter 013",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/013/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/013/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -172,10 +212,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 014",
+                        "id":  "folder-STARMETER-014",
+                        "title":  "STARmeter 014",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/014/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/014/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -185,10 +228,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 015",
+                        "id":  "folder-STARMETER-015",
+                        "title":  "STARmeter 015",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/015/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/015/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -198,10 +244,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 016",
+                        "id":  "folder-STARMETER-016",
+                        "title":  "STARmeter 016",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/016/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/016/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -211,10 +260,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 017",
+                        "id":  "folder-STARMETER-017",
+                        "title":  "STARmeter 017",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/017/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/017/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -224,10 +276,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 018",
+                        "id":  "folder-STARMETER-018",
+                        "title":  "STARmeter 018",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/018/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/018/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -237,10 +292,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 019",
+                        "id":  "folder-STARMETER-019",
+                        "title":  "STARmeter 019",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/019/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/019/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -250,10 +308,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 020",
+                        "id":  "folder-STARMETER-020",
+                        "title":  "STARmeter 020",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/020/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/020/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -263,10 +324,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 021",
+                        "id":  "folder-STARMETER-021",
+                        "title":  "STARmeter 021",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/021/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/021/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -276,10 +340,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 022",
+                        "id":  "folder-STARMETER-022",
+                        "title":  "STARmeter 022",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/022/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/022/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -289,10 +356,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 023",
+                        "id":  "folder-STARMETER-023",
+                        "title":  "STARmeter 023",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/023/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/023/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -302,10 +372,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 024",
+                        "id":  "folder-STARMETER-024",
+                        "title":  "STARmeter 024",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/024/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/024/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -315,10 +388,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 025",
+                        "id":  "folder-STARMETER-025",
+                        "title":  "STARmeter 025",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/025/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/025/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -328,10 +404,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 026",
+                        "id":  "folder-STARMETER-026",
+                        "title":  "STARmeter 026",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/026/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/026/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -341,10 +420,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 027",
+                        "id":  "folder-STARMETER-027",
+                        "title":  "STARmeter 027",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/027/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/027/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -354,10 +436,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 028",
+                        "id":  "folder-STARMETER-028",
+                        "title":  "STARmeter 028",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/028/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/028/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -367,10 +452,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 029",
+                        "id":  "folder-STARMETER-029",
+                        "title":  "STARmeter 029",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/029/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/029/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -380,10 +468,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 030",
+                        "id":  "folder-STARMETER-030",
+                        "title":  "STARmeter 030",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/030/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/030/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -393,10 +484,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 031",
+                        "id":  "folder-STARMETER-031",
+                        "title":  "STARmeter 031",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/031/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/031/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -406,10 +500,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 032",
+                        "id":  "folder-STARMETER-032",
+                        "title":  "STARmeter 032",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/032/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/032/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -419,10 +516,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 033",
+                        "id":  "folder-STARMETER-033",
+                        "title":  "STARmeter 033",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/033/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/033/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -432,10 +532,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 034",
+                        "id":  "folder-STARMETER-034",
+                        "title":  "STARmeter 034",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/034/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/034/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -445,10 +548,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 035",
+                        "id":  "folder-STARMETER-035",
+                        "title":  "STARmeter 035",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/035/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/035/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -458,10 +564,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 036",
+                        "id":  "folder-STARMETER-036",
+                        "title":  "STARmeter 036",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/036/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/036/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -471,10 +580,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 037",
+                        "id":  "folder-STARMETER-037",
+                        "title":  "STARmeter 037",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/037/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/037/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -484,10 +596,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 038",
+                        "id":  "folder-STARMETER-038",
+                        "title":  "STARmeter 038",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/038/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/038/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -497,10 +612,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 039",
+                        "id":  "folder-STARMETER-039",
+                        "title":  "STARmeter 039",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/039/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/039/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -510,10 +628,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 040",
+                        "id":  "folder-STARMETER-040",
+                        "title":  "STARmeter 040",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/040/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/040/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -523,10 +644,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 041",
+                        "id":  "folder-STARMETER-041",
+                        "title":  "STARmeter 041",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/041/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/041/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -536,10 +660,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 042",
+                        "id":  "folder-STARMETER-042",
+                        "title":  "STARmeter 042",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/042/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/042/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -549,10 +676,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 043",
+                        "id":  "folder-STARMETER-043",
+                        "title":  "STARmeter 043",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/043/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/043/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -562,10 +692,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 044",
+                        "id":  "folder-STARMETER-044",
+                        "title":  "STARmeter 044",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/044/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/044/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -575,10 +708,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 045",
+                        "id":  "folder-STARMETER-045",
+                        "title":  "STARmeter 045",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/045/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/045/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -588,10 +724,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 046",
+                        "id":  "folder-STARMETER-046",
+                        "title":  "STARmeter 046",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/046/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/046/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -601,10 +740,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 047",
+                        "id":  "folder-STARMETER-047",
+                        "title":  "STARmeter 047",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/047/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/047/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -614,10 +756,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 048",
+                        "id":  "folder-STARMETER-048",
+                        "title":  "STARmeter 048",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/048/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/048/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -627,10 +772,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 049",
+                        "id":  "folder-STARMETER-049",
+                        "title":  "STARmeter 049",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/049/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/049/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -640,10 +788,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 050",
+                        "id":  "folder-STARMETER-050",
+                        "title":  "STARmeter 050",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/050/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/050/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -653,10 +804,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 051",
+                        "id":  "folder-STARMETER-051",
+                        "title":  "STARmeter 051",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/051/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/051/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -666,10 +820,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 052",
+                        "id":  "folder-STARMETER-052",
+                        "title":  "STARmeter 052",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/052/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/052/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -679,10 +836,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 053",
+                        "id":  "folder-STARMETER-053",
+                        "title":  "STARmeter 053",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/053/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/053/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -692,10 +852,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 054",
+                        "id":  "folder-STARMETER-054",
+                        "title":  "STARmeter 054",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/054/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/054/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -705,10 +868,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 055",
+                        "id":  "folder-STARMETER-055",
+                        "title":  "STARmeter 055",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/055/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/055/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -718,10 +884,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 056",
+                        "id":  "folder-STARMETER-056",
+                        "title":  "STARmeter 056",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/056/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/056/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -731,10 +900,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 057",
+                        "id":  "folder-STARMETER-057",
+                        "title":  "STARmeter 057",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/057/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/057/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -744,10 +916,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 058",
+                        "id":  "folder-STARMETER-058",
+                        "title":  "STARmeter 058",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/058/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/058/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -757,10 +932,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 059",
+                        "id":  "folder-STARMETER-059",
+                        "title":  "STARmeter 059",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/059/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/059/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -770,10 +948,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 060",
+                        "id":  "folder-STARMETER-060",
+                        "title":  "STARmeter 060",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/060/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/060/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -783,10 +964,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 061",
+                        "id":  "folder-STARMETER-061",
+                        "title":  "STARmeter 061",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/061/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/061/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -796,10 +980,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 062",
+                        "id":  "folder-STARMETER-062",
+                        "title":  "STARmeter 062",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/062/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/062/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -809,10 +996,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 063",
+                        "id":  "folder-STARMETER-063",
+                        "title":  "STARmeter 063",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/063/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/063/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -822,10 +1012,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 064",
+                        "id":  "folder-STARMETER-064",
+                        "title":  "STARmeter 064",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/064/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/064/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -835,10 +1028,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 065",
+                        "id":  "folder-STARMETER-065",
+                        "title":  "STARmeter 065",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/065/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/065/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -848,10 +1044,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 066",
+                        "id":  "folder-STARMETER-066",
+                        "title":  "STARmeter 066",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/066/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/066/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -861,10 +1060,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 067",
+                        "id":  "folder-STARMETER-067",
+                        "title":  "STARmeter 067",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/067/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/067/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -874,10 +1076,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 068",
+                        "id":  "folder-STARMETER-068",
+                        "title":  "STARmeter 068",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/068/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/068/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -887,10 +1092,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 069",
+                        "id":  "folder-STARMETER-069",
+                        "title":  "STARmeter 069",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/069/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/069/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -900,10 +1108,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 070",
+                        "id":  "folder-STARMETER-070",
+                        "title":  "STARmeter 070",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/070/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/070/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -913,10 +1124,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 071",
+                        "id":  "folder-STARMETER-071",
+                        "title":  "STARmeter 071",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/071/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/071/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -926,10 +1140,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 072",
+                        "id":  "folder-STARMETER-072",
+                        "title":  "STARmeter 072",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/072/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/072/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -939,10 +1156,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 073",
+                        "id":  "folder-STARMETER-073",
+                        "title":  "STARmeter 073",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/073/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/073/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -952,10 +1172,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 074",
+                        "id":  "folder-STARMETER-074",
+                        "title":  "STARmeter 074",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/074/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/074/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -965,10 +1188,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 075",
+                        "id":  "folder-STARMETER-075",
+                        "title":  "STARmeter 075",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/075/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/075/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -978,10 +1204,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 076",
+                        "id":  "folder-STARMETER-076",
+                        "title":  "STARmeter 076",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/076/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/076/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -991,10 +1220,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 077",
+                        "id":  "folder-STARMETER-077",
+                        "title":  "STARmeter 077",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/077/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/077/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1004,10 +1236,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 078",
+                        "id":  "folder-STARMETER-078",
+                        "title":  "STARmeter 078",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/078/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/078/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1017,10 +1252,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 079",
+                        "id":  "folder-STARMETER-079",
+                        "title":  "STARmeter 079",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/079/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/079/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1030,10 +1268,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 080",
+                        "id":  "folder-STARMETER-080",
+                        "title":  "STARmeter 080",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/080/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/080/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1043,10 +1284,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 081",
+                        "id":  "folder-STARMETER-081",
+                        "title":  "STARmeter 081",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/081/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/081/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1056,10 +1300,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 082",
+                        "id":  "folder-STARMETER-082",
+                        "title":  "STARmeter 082",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/082/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/082/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1069,10 +1316,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 083",
+                        "id":  "folder-STARMETER-083",
+                        "title":  "STARmeter 083",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/083/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/083/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1082,10 +1332,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 084",
+                        "id":  "folder-STARMETER-084",
+                        "title":  "STARmeter 084",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/084/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/084/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1095,10 +1348,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 085",
+                        "id":  "folder-STARMETER-085",
+                        "title":  "STARmeter 085",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/085/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/085/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1108,10 +1364,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 086",
+                        "id":  "folder-STARMETER-086",
+                        "title":  "STARmeter 086",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/086/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/086/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1121,10 +1380,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 087",
+                        "id":  "folder-STARMETER-087",
+                        "title":  "STARmeter 087",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/087/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/087/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1134,10 +1396,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 088",
+                        "id":  "folder-STARMETER-088",
+                        "title":  "STARmeter 088",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/088/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/088/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1147,10 +1412,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 089",
+                        "id":  "folder-STARMETER-089",
+                        "title":  "STARmeter 089",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/089/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/089/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1160,10 +1428,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 090",
+                        "id":  "folder-STARMETER-090",
+                        "title":  "STARmeter 090",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/090/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/090/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1173,10 +1444,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 091",
+                        "id":  "folder-STARMETER-091",
+                        "title":  "STARmeter 091",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/091/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/091/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1186,10 +1460,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 092",
+                        "id":  "folder-STARMETER-092",
+                        "title":  "STARmeter 092",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/092/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/092/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1199,10 +1476,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 093",
+                        "id":  "folder-STARMETER-093",
+                        "title":  "STARmeter 093",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/093/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/093/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1212,10 +1492,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 094",
+                        "id":  "folder-STARMETER-094",
+                        "title":  "STARmeter 094",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/094/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/094/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1225,10 +1508,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 095",
+                        "id":  "folder-STARMETER-095",
+                        "title":  "STARmeter 095",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/095/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/095/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1238,10 +1524,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 096",
+                        "id":  "folder-STARMETER-096",
+                        "title":  "STARmeter 096",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/096/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/096/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1251,10 +1540,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 097",
+                        "id":  "folder-STARMETER-097",
+                        "title":  "STARmeter 097",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/097/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/097/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1264,10 +1556,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 098",
+                        "id":  "folder-STARMETER-098",
+                        "title":  "STARmeter 098",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/098/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/098/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1277,10 +1572,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 099",
+                        "id":  "folder-STARMETER-099",
+                        "title":  "STARmeter 099",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/099/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/099/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1290,10 +1588,13 @@
                                            ]
                     },
                     {
-                        "title":  "Slot 100",
+                        "id":  "folder-STARMETER-100",
+                        "title":  "STARmeter 100",
                         "hideTitle":  true,
+                        "tileShape":  "POSTER",
                         "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/100/cover.svg",
                         "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/100/cover.svg",
+                        "focusGifEnabled":  false,
                         "catalogSources":  [
                                                {
                                                    "type":  "movie",
@@ -1304,3 +1605,4 @@
                     }
                 ]
 }
+]

@@ -1,0 +1,1306 @@
+﻿{
+    "name":  "STARmeter 100 Prototype",
+    "version":  1,
+    "folders":  [
+                    {
+                        "title":  "Slot 001",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/001/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/001/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.001"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 002",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/002/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/002/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.002"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 003",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/003/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/003/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.003"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 004",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/004/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/004/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.004"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 005",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/005/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/005/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.005"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 006",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/006/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/006/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.006"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 007",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/007/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/007/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.007"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 008",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/008/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/008/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.008"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 009",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/009/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/009/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.009"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 010",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/010/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/010/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.010"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 011",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/011/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/011/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.011"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 012",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/012/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/012/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.012"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 013",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/013/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/013/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.013"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 014",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/014/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/014/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.014"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 015",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/015/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/015/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.015"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 016",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/016/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/016/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.016"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 017",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/017/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/017/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.017"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 018",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/018/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/018/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.018"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 019",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/019/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/019/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.019"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 020",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/020/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/020/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.020"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 021",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/021/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/021/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.021"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 022",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/022/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/022/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.022"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 023",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/023/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/023/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.023"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 024",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/024/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/024/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.024"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 025",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/025/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/025/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.025"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 026",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/026/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/026/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.026"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 027",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/027/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/027/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.027"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 028",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/028/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/028/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.028"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 029",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/029/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/029/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.029"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 030",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/030/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/030/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.030"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 031",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/031/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/031/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.031"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 032",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/032/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/032/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.032"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 033",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/033/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/033/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.033"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 034",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/034/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/034/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.034"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 035",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/035/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/035/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.035"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 036",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/036/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/036/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.036"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 037",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/037/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/037/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.037"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 038",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/038/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/038/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.038"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 039",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/039/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/039/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.039"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 040",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/040/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/040/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.040"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 041",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/041/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/041/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.041"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 042",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/042/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/042/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.042"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 043",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/043/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/043/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.043"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 044",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/044/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/044/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.044"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 045",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/045/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/045/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.045"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 046",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/046/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/046/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.046"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 047",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/047/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/047/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.047"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 048",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/048/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/048/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.048"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 049",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/049/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/049/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.049"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 050",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/050/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/050/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.050"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 051",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/051/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/051/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.051"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 052",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/052/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/052/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.052"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 053",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/053/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/053/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.053"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 054",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/054/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/054/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.054"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 055",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/055/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/055/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.055"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 056",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/056/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/056/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.056"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 057",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/057/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/057/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.057"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 058",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/058/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/058/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.058"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 059",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/059/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/059/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.059"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 060",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/060/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/060/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.060"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 061",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/061/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/061/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.061"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 062",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/062/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/062/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.062"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 063",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/063/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/063/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.063"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 064",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/064/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/064/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.064"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 065",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/065/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/065/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.065"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 066",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/066/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/066/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.066"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 067",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/067/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/067/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.067"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 068",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/068/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/068/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.068"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 069",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/069/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/069/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.069"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 070",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/070/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/070/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.070"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 071",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/071/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/071/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.071"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 072",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/072/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/072/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.072"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 073",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/073/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/073/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.073"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 074",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/074/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/074/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.074"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 075",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/075/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/075/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.075"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 076",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/076/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/076/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.076"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 077",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/077/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/077/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.077"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 078",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/078/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/078/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.078"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 079",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/079/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/079/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.079"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 080",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/080/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/080/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.080"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 081",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/081/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/081/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.081"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 082",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/082/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/082/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.082"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 083",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/083/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/083/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.083"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 084",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/084/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/084/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.084"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 085",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/085/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/085/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.085"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 086",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/086/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/086/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.086"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 087",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/087/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/087/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.087"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 088",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/088/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/088/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.088"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 089",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/089/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/089/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.089"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 090",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/090/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/090/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.090"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 091",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/091/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/091/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.091"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 092",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/092/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/092/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.092"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 093",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/093/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/093/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.093"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 094",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/094/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/094/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.094"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 095",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/095/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/095/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.095"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 096",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/096/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/096/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.096"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 097",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/097/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/097/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.097"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 098",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/098/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/098/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.098"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 099",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/099/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/099/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.099"
+                                               }
+                                           ]
+                    },
+                    {
+                        "title":  "Slot 100",
+                        "hideTitle":  true,
+                        "coverImageUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/100/cover.svg",
+                        "focusGifUrl":  "https://extension-five-omega.vercel.app/starmeter/slot/100/cover.svg",
+                        "catalogSources":  [
+                                               {
+                                                   "type":  "movie",
+                                                   "addonId":  "community.starmeter.prototype",
+                                                   "catalogId":  "starmeter.slot.100"
+                                               }
+                                           ]
+                    }
+                ]
+}

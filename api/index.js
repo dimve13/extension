@@ -146,15 +146,15 @@ module.exports = function handler(req, res) {
   const path = (req.url || "/").split("?")[0];
   const baseUrl = getBaseUrl(req);
 
-  if (path === "/" || path === "/health") {
+  if (path === "/" || path === "/api" || path === "/api/index" || path === "/health") {
     return sendText(res, 200, "text/plain; charset=utf-8", "ok");
   }
 
-  if (path === "/manifest.json") {
+  if (path === "/manifest.json" || path === "/api/manifest.json") {
     return sendJson(res, 200, manifest());
   }
 
-  if (path === "/nuvio-collection.json") {
+  if (path === "/nuvio-collection.json" || path === "/api/nuvio-collection.json") {
     return sendJson(res, 200, nuvioCollection(baseUrl));
   }
 

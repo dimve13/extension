@@ -1,22 +1,15 @@
 {
   "001": {
     "rank": 1,
-    "name": "Zendaya",
-    "profileColor": "#226f54",
+    "name": "LIVE TEST ACTOR",
+    "profileColor": "#d946ef",
     "movies": [
       {
-        "id": "tt15239678",
-        "name": "Dune: Part Two",
-        "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
-        "background": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
-        "description": "Sample movie returned for STARmeter slot 001."
-      },
-      {
-        "id": "tt1160419",
-        "name": "Dune",
-        "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
-        "background": "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-        "description": "Sample movie returned for STARmeter slot 001."
+        "id": "tt15398776",
+        "name": "Oppenheimer",
+        "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "background": "https://image.tmdb.org/t/p/original/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg",
+        "description": "LIVE TEST: this replaced slot 001 without changing the imported Nuvio collection."
       }
     ]
   },

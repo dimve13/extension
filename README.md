@@ -47,12 +47,24 @@ vercel.json
 package.json
 ```
 
-After deploying to Vercel, use:
+After deploying to Vercel, use this as the addon/plugin URL:
 
 ```text
 https://YOUR-PROJECT.vercel.app/manifest.json
-https://YOUR-PROJECT.vercel.app/nuvio-collection.json
 ```
+
+The manifest exposes 100 movie catalogs:
+
+```text
+starmeter.slot.001
+starmeter.slot.002
+...
+starmeter.slot.100
+```
+
+Nuvio should treat those catalogs like normal addon sections. The separate
+`nuvio-collection.json` file is only an optional experiment for Nuvio-native
+collection import, not required for normal addon installation.
 
 Vercel deployment options:
 

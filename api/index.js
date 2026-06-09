@@ -49,10 +49,11 @@ function manifest() {
     idPrefixes: ["tt"],
     catalogs: Array.from({ length: 100 }, (_, index) => {
       const id = slotId(index + 1);
+      const slot = getSlot(id);
       return {
         type: "movie",
         id: `starmeter.slot.${id}`,
-        name: `STARmeter Slot ${id}`,
+        name: `#${slot.rank || index + 1} ${slot.name}`,
       };
     }),
   };
